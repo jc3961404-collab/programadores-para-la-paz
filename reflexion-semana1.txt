@@ -1,0 +1,10 @@
+pregunta 4:
+respuesta: El uso responsable de la informacion en internet, la participacion  ciudadana 
+y las herramientas tecnicas como Git estan estrechamente conectados por los principios
+de transparencia, verdad y colobaracion en la era digital. Por un lado, la ciudadana digital
+nos exige verificar la informacion que consumimos y compartimos,evitando la propagacion 
+de noticias falsas que puedan dañar a la comunidad.Esta misma responsabilidad es fundamental 
+para una participacion ciudadana activa y democratica , la cual requiere de datos veridicos 
+y accesibles para que las personas puedan tomar decisiones informadas sobre su entorno.Finalmente 
+en el ambito tecnico, herramientas de control de versiones como Git reflejan estos mismos valores al permitir 
+que los equipos organicen su trabajo de forma transparente.
