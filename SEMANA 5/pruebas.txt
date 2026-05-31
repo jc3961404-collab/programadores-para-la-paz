@@ -1,0 +1,10 @@
+Resultados de las pruebas en el navegador:
+
+1. Al acceder a http://localhost:3000
+   Resultado: El navegador muestra el texto "Servidor activo". Esto confirma que la raíz del servidor responde correctamente.
+
+2. Al acceder a http://localhost:3000/saludo
+   Resultado: El navegador muestra el texto "Hola comunidad". La ruta estática funciona de manera correcta.
+
+3. Al acceder a http://localhost:3000/mensaje/juan
+   Resultado: El navegador muestra el texto "Hola juan". El servidor lee exitosamente el parámetro dinámico ":nombre" enviado en la URL y lo concatena en la respuesta.
