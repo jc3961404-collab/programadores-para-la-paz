@@ -1,0 +1,7 @@
+Al enviar la petición POST con el formato JSON sugerido, el servidor Express procesa los datos mediante 'req.body' y devuelve una respuesta estructurada en formato JSON confirmando la recepción con el siguiente contenido:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
