@@ -1,0 +1,11 @@
+// Ejemplo de Reporte 1
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público en la carrera 10 con calle 4"
+}
+
+// Ejemplo de Reporte 2
+{
+  "tipo": "Aseo y Ornato",
+  "descripcion": "Acumulación de residuos y basura en el parque principal"
+}

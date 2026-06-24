@@ -1,0 +1,5 @@
+Reflexión Semana 7:
+
+El uso de un backend con Express y estructuras de datos como los arrays resulta sumamente eficiente para crear prototipos funcionales y centralizar información ciudadana en tiempo real (como los reportes comunitarios). Permite que cualquier aplicación externa consuma o envíe información de manera uniforme gracias al formato estandarizado JSON. 
+
+No obstante, una limitación crítica del almacenamiento en arrays dentro de JavaScript es que los datos residen únicamente en la memoria RAM del proceso del servidor de Node.js. Esto significa que si el servidor se apaga, se reinicia o se despliega un cambio en el código, toda la información recolectada se borra por completo. De allí radica la importancia de evolucionar estas arquitecturas e integrar bases de datos en las siguientes etapas del desarrollo para garantizar la persistencia de la información.
