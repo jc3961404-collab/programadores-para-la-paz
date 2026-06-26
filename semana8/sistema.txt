@@ -1,0 +1,5 @@
+¿Qué información muestra cada comando? 
+*uname -a detalla el tipo de sistema operativo, versión del kernel y arquitectura. 
+*whoami te dice el nombre exacto del usuario con el que iniciaste sesión.
+¿Por qué es útil conocer esta información? 
+Es fundamental para saber si el software que vas a instalar es compatible con la arquitectura del servidor y para verificar si tienes los privilegios de usuario correctos para realizar tareas de administración.
