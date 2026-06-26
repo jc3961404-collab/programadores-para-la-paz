@@ -1,0 +1,14 @@
+Sistema operativo: 
+Es la base de software que administra los recursos de hardware del servidor y permite que corran entornos como Node.js.
+
+Node.js: 
+Un entorno de ejecución para JavaScript en el lado del servidor que permite construir aplicaciones web rápidas y escalables.
+
+Aplicación server.js: 
+El archivo de código principal donde se define la lógica del servidor, las rutas de la aplicación y la integración de dependencias como Express.
+
+Puerto: 
+Un punto final de comunicación lógico en el sistema operativo (en este caso el 3000) que sirve para dirigir el tráfico de red directamente a nuestra aplicación.
+
+Logs: 
+Registros históricos de eventos, errores y accesos que genera el servidor, esenciales para el monitoreo y mantenimiento del sistema.
