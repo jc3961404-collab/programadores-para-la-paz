@@ -1,0 +1,17 @@
+Entidad: Causa
+Campos principales:
+  - id (Único, numérico)
+  - titulo (Texto corto)
+  - descripcion (Texto largo)
+  - fecha (Fecha de registro)
+Propósito:
+Guardar las causas comunitarias o solicitudes de veeduría que serán visibles en la plataforma de manera pública.
+
+Entidad: Apoyo
+Campos principales:
+  - id (Único, numérico)
+  - causa_id (Relación con la entidad Causa)
+  - usuario (Identificador anónimo o de práctica del usuario)
+  - fecha (Fecha en que se dio el apoyo)
+Propósito:
+Registrar los apoyos digitales directos que recibe cada causa por parte de los miembros para hacer un seguimiento real a la participación ciudadana.
