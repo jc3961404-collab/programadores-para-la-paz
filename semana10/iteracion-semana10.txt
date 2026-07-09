@@ -1,0 +1,14 @@
+- ¿Qué 2 tareas del backlog harías primero?
+
+1. Diseñar el formulario de recolección para que el ciudadano registre la incidencia.
+2. Configurar la base de datos básica para almacenar los reportes de manera segura.
+
+- ¿Por qué son las más importantes?
+
+Porque sin capturar la información del ciudadano ni tener un lugar donde guardarla, no existe materia prima para hacer la veeduría ni se pueden enviar alertas posteriores.
+
+- ¿Qué significa para ti que una tarea esté "terminada"? (Definición de Terminado - DoD):
+
+- Funciona: El usuario puede llenar el formulario y los datos se guardan correctamente.
+- Fue probada: Se hicieron pruebas con datos simulados y no arroja errores.
+- Quedó registrada en Git: El código limpio se subió al repositorio correspondiente.

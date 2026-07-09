@@ -1,0 +1,6 @@
+- Evento que activa el flujo:
+ el registro de un nuevo reporte de incidencia por parte de un ciudadano en la base de datos.
+- Mensaje a enviar por Telegram:
+ "Alerta: Se ha recibido un nuevo caso de veeduría en el sistema. Por favor, ingresar a la plataforma para revisar los detalles."
+- Información que NO debe enviarse por seguridad:
+ nombres completos de los denunciantes, números de cédula, números de teléfono, direcciones exactas de residencia y contraseñas.
