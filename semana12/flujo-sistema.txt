@@ -1,0 +1,7 @@
+
+1. Un ciudadano ingresa a la plataforma y crea una causa comunitaria detallando la necesidad.
+2. La causa se registra de forma automática y segura en la base de datos del sistema.
+3. Otros miembros de la comunidad ingresan al sistema y apoyan digitalmente la causa activa.
+4. El sistema contabiliza y valida en tiempo real la cantidad de apoyos recibidos.
+5. Al alcanzar la meta de apoyos, el sistema genera de forma automática un documento PDF formalizado.
+6. Se envía una notificación automatizada a través de Telegram/n8n informando del éxito de la petición.

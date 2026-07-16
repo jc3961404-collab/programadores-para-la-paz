@@ -1,0 +1,18 @@
+ENTIDAD: Causa
+- id (Identificador único - Entero/UUID)
+- titulo (Nombre representativo de la causa - Texto)
+- descripcion (Detalle de la problemática comunitaria - Texto)
+- fecha (Fecha de creación de la causa - Fecha)
+
+¿Para qué sirve?: 
+Almacena la información principal de la solicitud o necesidad comunitaria creada por un ciudadano, permitiendo que otros la identifiquen y conozcan su propósito.
+
+ENTIDAD: Apoyo
+- id (Identificador único del apoyo - Entero/UUID)
+- causa_id (Relación con la causa apoyada - Entero/UUID)
+- nombre (Nombre del ciudadano que apoya - Texto)
+- fecha (Fecha y hora en la que se registró el apoyo - Fecha)
+
+¿Para qué sirve?: 
+Registra de forma individual el respaldo que un ciudadano le otorga a una causa específica, permitiendo vincular y contabilizar la participación de la comunidad en cada iniciativa.
+

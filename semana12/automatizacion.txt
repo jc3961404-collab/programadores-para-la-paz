@@ -1,0 +1,6 @@
+Evento: Nueva causa registrada en la plataforma.
+
+Mensaje: "¡Nueva causa comunitaria creada! Se ha registrado la propuesta: '{titulo}' en la plataforma. Ingresa para conocer los detalles y sumar tu apoyo."
+
+Información que NO debe enviarse por seguridad: 
+No se deben enviar datos personales del creador (como su documento de identidad, dirección exacta de residencia, teléfono personal, correo electrónico) ni comentarios o descripciones sensibles que puedan vulnerar la privacidad de los participantes.
